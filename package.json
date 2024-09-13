@@ -1,0 +1,21 @@
+{
+  "name": "cassia",
+  "displayName": "Cassia",
+  "description": "A subtle, high-contrast theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cassia",
+        "uiTheme": "hc-black",
+        "path": "./themes/Cassia-color-theme.json"
+      }
+    ]
+  }
+}

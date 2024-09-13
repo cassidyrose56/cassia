@@ -1,0 +1,14 @@
+{
+  "name": "Cassia",
+  "colors": {
+    "editor.background": "#232F23",
+    "editor.foreground": "#EAE8FF",
+    "editor.selectionBackground": "#2A2A2A",
+    "editor.lineHighlightBackground": "#333333",
+    "editor.lineHighlightBorder": "#333333",
+    "editor.wordHighlightBorder": "#333333",
+    "editor.wordHighlightStrongBorder": "#333333",
+    "editor.findMatchBackground": "#333333",
+    "editor.findMatchBorder": "#333333"
+  }
+}
